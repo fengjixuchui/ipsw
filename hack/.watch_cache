@@ -254,11 +254,11 @@
   "fcs_keys_stable": {
     "fcs_keys": {
       "release": {
-        "fingerprint": "24A437_26A428_24M362",
-        "ios_build": "24A437",
-        "macos_build": "26A428",
-        "updated_at": "2026-09-14T22:16:19Z",
-        "visionos_build": "24M362"
+        "fingerprint": "24A446_26A434_24M372",
+        "ios_build": "24A446",
+        "macos_build": "26A434",
+        "updated_at": "2026-09-28T23:40:51Z",
+        "visionos_build": "24M372"
       }
     }
   }
