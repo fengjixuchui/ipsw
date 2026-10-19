@@ -243,11 +243,11 @@
   "fcs_keys_rc": {
     "fcs_keys": {
       "rc": {
-        "fingerprint": "24A435_25G82_23O244",
-        "ios_build": "24A435",
-        "macos_build": "25G82",
-        "updated_at": "2026-09-14T22:16:19Z",
-        "visionos_build": "23O244"
+        "fingerprint": "24B115_26B118_24N118",
+        "ios_build": "24B115",
+        "macos_build": "26B118",
+        "updated_at": "2026-10-19T22:49:34Z",
+        "visionos_build": "24N118"
       }
     }
   },
