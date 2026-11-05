@@ -232,11 +232,11 @@
   "fcs_keys_beta": {
     "fcs_keys": {
       "beta": {
-        "fingerprint": "24B5110a_26B5112a_24N5114a",
-        "ios_build": "24B5110a",
-        "macos_build": "26B5112a",
-        "updated_at": "2026-10-13T23:13:38Z",
-        "visionos_build": "24N5114a"
+        "fingerprint": "24C5037i_26C5035r_24N5286r",
+        "ios_build": "24C5037i",
+        "macos_build": "26C5035r",
+        "updated_at": "2026-11-05T00:07:40Z",
+        "visionos_build": "24N5286r"
       }
     }
   },
